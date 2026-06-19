@@ -1,0 +1,1 @@
+//Este es el archivo puente para que Cucumber pueda ejecutar los pasos de las pruebas.gi
