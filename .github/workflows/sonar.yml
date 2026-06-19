@@ -26,7 +26,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           args: >
-            -Dsonar.projectKey=TU_CLAVE_DE_PROYECTO
-            -Dsonar.organization=TU_ORGANIZACION
+            -Dsonar.projectKey=lkss00
+            -Dsonar.organization=LKSS00
             -Dsonar.sources=Proyecto/src
             -Dsonar.java.binaries=Proyecto/src
